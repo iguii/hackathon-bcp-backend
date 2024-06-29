@@ -1,0 +1,7 @@
+BancoSol
+Monto solicitado: variable
+
+Motivo: deuda
+Pagar a: Jose Condori
+Fecha de venc. del QR : 16/Mar/2025
+Puede ser utilizado en múltiples pagos
